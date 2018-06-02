@@ -1,0 +1,11 @@
+{
+  "name": "vue-autoloader",
+  "version": "1.0.0",
+  "description": "Vue component autoloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephan de Vries <stephan-v@hotmail.com>",
+  "license": "ISC"
+}
