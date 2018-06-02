@@ -2,10 +2,21 @@
   "name": "vue-autoloader",
   "version": "1.0.0",
   "description": "Vue component autoloader",
+  "homepage": "https://github.com/stephan-v/vue-autoloader#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephan-v/vue-autoloader"
+  },
+  "keywords": [
+    "vue",
+    "autoloader",
+    "dynamic",
+    "webpack"
+  ],
   "author": "Stephan de Vries <stephan-v@hotmail.com>",
   "license": "ISC"
 }
