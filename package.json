@@ -1,6 +1,6 @@
 {
   "name": "vue-autoloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue component autoloader",
   "homepage": "https://github.com/stephan-v/vue-autoloader#readme",
   "main": "index.js",
