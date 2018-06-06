@@ -15,7 +15,7 @@ needs to be known at build time.
 
 Add the following to your Webpack configuration: 
 
-in this example `resources/assets/js` can of course be substituted for your own resource directory.
+(in this example `resources/assets/js` can of course be substituted for your own resource directory.)
 
 ```
 alias: {
