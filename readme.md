@@ -34,3 +34,12 @@ For more information about Webpack Aliases:
 
 
 https://webpack.js.org/configuration/resolve/
+
+### Step 3
+
+Install this plugin:
+
+```
+import Autoloader from 'vue-autoloader';
+Vue.use(Autoloader);
+```
