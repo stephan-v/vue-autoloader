@@ -1,6 +1,6 @@
 {
   "name": "vue-autoloader",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Vue component autoloader",
   "main": "index.js",
   "scripts": {
@@ -13,11 +13,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/stephan-v/vue-autoloader"
-  },
-  "dependencies": {
-    "vue-loader": "^13.7.1",
-    "vue-template-compiler": "^2.5.13",
-    "webpack": "^3.11.0"
   },
   "keywords": [
     "vue",
