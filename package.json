@@ -1,6 +1,6 @@
 {
   "name": "vue-autoloader",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "Vue component autoloader",
   "main": "index.js",
   "scripts": {
