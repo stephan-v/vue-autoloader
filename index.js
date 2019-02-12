@@ -11,7 +11,7 @@ const globalComponents = {
             const componentName = fileName.slice(0, -4);
 
             // Dynamically register the component.
-            Vue.component(componentName, component);
+            Vue.component(componentName, component.default || component);
         });
     }
 };
